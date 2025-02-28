@@ -5,7 +5,7 @@ import Sidebar from "./components/Sidebar";
 import ClockInOut from "./components/ClockInOut";
 import AttendanceTable from "./components/AttendanceTable";
 import Timesheet from "./components/Timesheet";
-import Dashboard from "./components/Dashboard";
+import Dashboard from "./components/dashboard";
 import ThemeToggle from "./components/ThemeToggle";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
